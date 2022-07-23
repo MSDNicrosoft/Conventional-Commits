@@ -30,3 +30,11 @@
 #### 提交要求
 
 点击 [此处](https://www.conventionalcommits.org/zh-hans) 查看。
+
+#### 工具
+
+您也可以使用如下工具来帮您更方便的遵守规范
+
+- IntelliJ IDEA 插件：[Conventional Commit](https://plugins.jetbrains.com/plugin/13389-conventional-commit)
+
+- Visual Studio Code 拓展：[Conventional Commit](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
